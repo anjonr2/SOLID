@@ -1,2 +1,2 @@
 # SOLID
-Implementations of Solid design principles
+Implementations of Solid design principles in Java
